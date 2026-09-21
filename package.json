@@ -6,13 +6,13 @@
   "description": "A minimal TypeScript npm library template.",
   "author": "SonOfMagic <qq1324318532@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/sonofmagic/npm-lib-template#readme",
+  "homepage": "https://github.com/icelib/npm-lib-template#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sonofmagic/npm-lib-template.git"
+    "url": "https://github.com/icelib/npm-lib-template.git"
   },
   "bugs": {
-    "url": "https://github.com/sonofmagic/npm-lib-template/issues"
+    "url": "https://github.com/icelib/npm-lib-template/issues"
   },
   "keywords": [
     "npm",
